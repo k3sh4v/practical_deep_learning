@@ -11,3 +11,6 @@ The table below shows the (theoretical) support matrix -
 | NVIDIA | GeForce GTX 600 series and newer |
 | AMD | Radeon HD 7000 series and newer |
 | Intel | Intel HD Graphics 5000 series and newer |
+
+## Proof
+> [Video Link](https://youtu.be/JzXXQynYr0M)
