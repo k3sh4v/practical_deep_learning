@@ -13,7 +13,7 @@ The table below shows the (theoretical) support matrix -
 | Intel | Intel HD Graphics 5000 series and newer |
 
 ## Proof
-> [Video Link](https://youtu.be/JzXXQynYr0M)
+> [Video Link](https://youtu.be/kWYTfiQvBws)
 
 ## Directions to properly use it
 1. Clone the repo (learn some git if you don't know)
