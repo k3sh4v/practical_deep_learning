@@ -18,6 +18,6 @@ The table below shows the (theoretical) support matrix -
 ## Directions to properly use it
 1. Clone the repo (learn some git if you don't know)
 2. Open Command prompt/Powershell.
-3. cd to the cloned repo. `practical_deep_learning`
+3. cd to the cloned repo. `practical_deep_learning_consumer_gpu`
 4. `pip install -r .\requirements.txt`
 5. Run the individual notebooks in your VSCode/Jupyter Server/IDEs
